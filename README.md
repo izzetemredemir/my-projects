@@ -1,5 +1,5 @@
 # my-projects
-My projects
+My personal projects
 Project Name | Project Description | Project Domain
 ------------ | -------------       | -------------
 Free Games Codes| It shares free games news on Steam, indiegala ,Epicgames etc. | [freegames.codes](https://freegames.codes/)
